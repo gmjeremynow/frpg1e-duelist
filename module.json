@@ -1,0 +1,37 @@
+{
+  "id": "frpg1e-duelist",
+  "title": "Duelist (Dragon #73) for 1e FRPG",
+  "description": "An optional non-player duelist class for 1e FRPG, based on Arthur Collins' \"The Duelist\" (Dragon #73, May 1983): levels from Beginner to Grand Fencingmaster, d12 hit dice, fighter combat, armor class and combat bonuses against hand-held weapons, parrying the death blow, resistance to fear, identifying magic weapons and the Fencingmaster's school. Rules restated in plain words. Adds a Duelist tab and a rules compendium. Turn it on or off in Manage Modules.",
+  "version": "0.2.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Jeremy Clifford"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "frpg1e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.38.0"
+        },
+        "manifest": "https://github.com/gmjeremynow/frpg1e/releases/latest/download/system.json"
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/duelist.mjs"
+  ],
+  "styles": [
+    "styles/duelist.css"
+  ],
+  "library": false,
+  "url": "https://github.com/gmjeremynow/frpg1e-duelist",
+  "manifest": "https://github.com/gmjeremynow/frpg1e-duelist/releases/latest/download/module.json",
+  "download": "https://github.com/gmjeremynow/frpg1e-duelist/releases/download/v0.2.0/frpg1e-duelist.zip"
+}

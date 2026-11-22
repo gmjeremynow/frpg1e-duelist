@@ -1,0 +1,11 @@
+.du-tab .hint { color: #6b5f4a; font-size: 11px; }
+.du-tab .du-table { width: 100%; border-collapse: collapse; margin: 4px 0; }
+.du-tab .du-table th { text-align: left; width: 9em; color: #6b5f4a; font-weight: normal; vertical-align: top; }
+.du-tab .du-table td, .du-tab .du-table th { padding: 2px 4px; border-bottom: 1px solid #ddd3bd; vertical-align: top; }
+.du-tab button { width: auto; display: inline-block; }
+.du-tab .du-list { margin: 2px 0 4px 1.2em; padding: 0; }
+.du-tab .du-list li { margin-bottom: 3px; }
+.du-tab .du-later { color: #9a917e; }
+.du-src { font-size: 0.85em; color: var(--color-text-secondary, #555); font-style: italic; }
+table.du-ref { font-size: 0.85em; border-collapse: collapse; width: 100%; }
+table.du-ref th, table.du-ref td { padding: 1px 4px; border-bottom: 1px solid rgba(0,0,0,0.1); text-align: left; }
